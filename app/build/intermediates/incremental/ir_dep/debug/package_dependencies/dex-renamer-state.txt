@@ -1,0 +1,4 @@
+#Sat Aug 24 08:56:56 PDT 2019
+base.0=C\:\\Users\\AshiQ\\Desktop\\CETouch\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

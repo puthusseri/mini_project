@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808119794205",
+    "firebase_url": "https://cetouch-7dfbd.firebaseio.com",
+    "project_id": "cetouch-7dfbd",
+    "storage_bucket": "cetouch-7dfbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808119794205:android:c3836ec16c83389e",
+        "android_client_info": {
+          "package_name": "com.example.cetouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808119794205-a2mlk1h74geu2eqt1o5n2nlpafha0l9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cetouch",
+            "certificate_hash": "808b1bde61791dd7306d48b8dffd2e8966565983"
+          }
+        },
+        {
+          "client_id": "808119794205-mk5j4pic130n3mm7m1of2ovbc4cv8f8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTtKzgrMamdA8WELv-fj1JGbhRyewu4HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808119794205-mk5j4pic130n3mm7m1of2ovbc4cv8f8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

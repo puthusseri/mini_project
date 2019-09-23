@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Aug 24 02:40:18 PDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\AshiQ\\Desktop\\CETouch\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=fonts/baloo.ttf
+0.set=ASSET
+count=1

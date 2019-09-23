@@ -1,0 +1,4 @@
+#Sat Aug 24 08:57:41 PDT 2019
+base.0=C\:\\Users\\AshiQ\\Desktop\\CETouch\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
